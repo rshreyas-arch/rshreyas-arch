@@ -43,8 +43,8 @@ Currently deep in placement prep — full stack, DSA, and game dev, run as three
 ### 📊 GitHub Stats
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=rshreyas-arch&show_icons=true&theme=default&hide_border=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rshreyas-arch&layout=compact&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=rshreyas-arch&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rshreyas-arch&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center"><sub>Full stack dev · game dev on the side · always shipping something</sub></p>
